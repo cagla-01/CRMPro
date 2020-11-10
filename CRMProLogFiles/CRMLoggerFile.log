@@ -1,0 +1,4 @@
+2020-11-05 20:08:37,557  INFO [main] LoginPage:27 - Application launched!
+2020-11-05 20:08:38,263  INFO [main] LoginPage:34 - Login page title verified
+2020-11-05 20:08:38,683  INFO [main] LoginPage:43 - CRM Link is verified
+2020-11-05 20:08:39,373  INFO [main] LoginPage:51 - Succesfully logged into CRM
